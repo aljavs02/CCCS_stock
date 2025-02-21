@@ -1,4 +1,4 @@
-# CCCS_stock
+# CCC Intelligent Solutions Holdings stock forecast
 This project aims to predict the stock prices of CCCS using the ARIMA model.
 The primary objective is to develop a time series forecasting model that provides insights into future stock price trends based on historical data.
 
@@ -10,3 +10,6 @@ Model Evaluation: The performance of the ARIMA model is evaluated using metrics 
 ## Technologies:
 - R Programming Language (including tidyverse, quantmod, forecast, tseries, ggplot2, dplyr packages)
 - ARIMA Model for time series forecasting
+
+### Note:
+Please be aware that analysis was conducted in Polish language (ARIMA_CCCS_findings.pdf)
